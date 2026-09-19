@@ -1,7 +1,7 @@
 <div align="center">
 
 # Smile Detector App
-# 😊📷
+# 🤖😊📷
 
 ### A Real-Time Smile Detector Built with Python and OpenCV
 
